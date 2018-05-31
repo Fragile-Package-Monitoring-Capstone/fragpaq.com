@@ -1,0 +1,10 @@
+{
+    "markdownlint.config": {
+        "MD013": true
+    },
+    "python.venvPath": "/home/lukas/.local/share/virtualenvs/",
+    "python.pythonPath": "/home/lukas/.local/share/virtualenvs/fragpaq.com-WeZDgTvb/bin/python",
+    "editor.rulers": [
+        80
+    ]
+}
